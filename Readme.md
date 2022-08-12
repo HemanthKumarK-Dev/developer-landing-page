@@ -12,7 +12,7 @@ Learnings
 
 
 Time Taken to complete
-- 3 hours
+- 9 hours
 
 [Live Link](https://hemanth-developerlandingpage.netlify.app)
 
