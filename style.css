@@ -382,8 +382,6 @@ display: none;
 .company-items{
   text-decoration: none;
   margin-left: 40px;
-  color: black;
-  font-weight:500;
   font-size: 24px;
   font-family: 'Righteous' , sans-serif;
 }
@@ -421,7 +419,7 @@ display: none;
 }
 .blog-card{
  display:flex;
- width: 66%;
+ width: 70%;
  height: 508px;
  margin-left: 8px;
  margin-bottom: 78px;
@@ -433,6 +431,9 @@ display: none;
   display: none;
 }
 
+.blog-bottom{
+  display: none;
+}
 
 .blog-author>b{
 display: none;
@@ -451,7 +452,8 @@ display: none;
 
 .faq-content{
   float: left;
-  margin-left: 10px;
+  margin-left:
+   10px;
 }
 
 .faq-content>h4+h4{
